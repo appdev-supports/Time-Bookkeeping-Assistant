@@ -22,15 +22,28 @@ Problems often encountered in the Finance:
 ![Alt text](https://github.com/appdev-supports/Time-Bookkeeping-Assistant/blob/master/IMG_0223.png)
 
 Framework
+
 Center center server
 Dbproxy database agent
 Gate gateway server
 Hub micro service node
+
 File
 https://github.com/qianqians/abelkhan/wiki
+
 License
 LGPL-2.1
+
 Technical support
 juggle:https://github.com/qianqians/juggle
+
 jsonparse:https://github.com/qianqians/jsonparse
+
 meter:https://github.com/qianqians/meter
+
+
+
+
+
+
+
